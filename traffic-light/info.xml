@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PersistProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>traffic-light</ProjectName>
+  <TypeName>MasterSCADA.Project.HMI</TypeName>
+  <ProjectConfiguration>MasterPLC</ProjectConfiguration>
+  <StoreTypeName>FirebirdStore</StoreTypeName>
+  <ProjectChange>2022-09-06T16:49:18.4300059+03:00</ProjectChange>
+  <ProjectVersion>467</ProjectVersion>
+</PersistProjectInfo>
