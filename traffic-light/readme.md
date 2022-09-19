@@ -5,6 +5,8 @@ Triggers used:
 
  - TON
  - R_TRIG
+ - GEN_PULSE
+The programm is also done in FBD - a visual representation of the original ST code. 
+Here's how it looks in motion:
 
-The programm is also done in FBD - a visual representation of the original ST code. Here's how it looks in motion:
 ![FBD traffic light program](https://i.imgur.com/FhoN83P.png)
