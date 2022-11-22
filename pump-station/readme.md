@@ -1,5 +1,5 @@
 ## Программа автоматического управления насосной станицей.
-![enter image description here](https://i.imgur.com/AXYkTvd.jpg)
+![enter image description here](https://i.imgur.com/hvNViR6.jpg)
 
 ### Алгоритм работы:
 
