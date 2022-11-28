@@ -4,6 +4,6 @@
   <TypeName>MasterSCADA.Project.HMI</TypeName>
   <ProjectConfiguration>MasterPLC</ProjectConfiguration>
   <StoreTypeName>FirebirdStore</StoreTypeName>
-  <ProjectChange>2022-10-25T12:45:56.6945815+03:00</ProjectChange>
-  <ProjectVersion>2080</ProjectVersion>
+  <ProjectChange>2022-11-29T00:22:47.1594333+03:00</ProjectChange>
+  <ProjectVersion>2102</ProjectVersion>
 </PersistProjectInfo>
